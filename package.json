@@ -1,0 +1,46 @@
+{
+  "name": "shoping-list",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/SamTomashi/sdft-19-module-2-shopping-list#readme",
+  "bugs": {
+    "url": "https://github.com/SamTomashi/sdft-19-module-2-shopping-list/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamTomashi/sdft-19-module-2-shopping-list.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "chokidar": "^5.0.0",
+    "colorette": "^2.0.20",
+    "dayjs": "^1.11.23",
+    "dot-prop": "^10.2.0",
+    "eta": "^4.6.0",
+    "header-range-parser": "^2.0.0",
+    "http-status-emojis": "^2.2.0",
+    "inflection": "^3.0.2",
+    "json5": "^2.2.3",
+    "lowdb": "^7.0.1",
+    "milliparsec": "^5.1.2",
+    "mrmime": "^2.0.1",
+    "readdirp": "^5.1.1",
+    "regexparam": "^3.0.0",
+    "sirv": "^3.0.2",
+    "sort-on": "^7.0.0",
+    "steno": "^4.0.2",
+    "tagged-tag": "^1.0.0",
+    "totalist": "^3.0.1",
+    "type-fest": "^5.10.0"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}

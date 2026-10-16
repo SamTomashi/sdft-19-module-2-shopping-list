@@ -1,0 +1,293 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "items": [
+    {
+      "itemName": "Leather Shoes",
+      "price": 30000,
+      "qty": 50,
+      "id": "UEX8EVCSma8"
+    },
+    {
+      "itemName": "Red dress",
+      "price": 3000,
+      "qty": 29,
+      "id": "emezBiybwCc"
+    },
+    {
+      "itemName": "Sneakers shoes",
+      "price": 2000,
+      "qty": 100,
+      "id": "pN_h_R3V22I"
+    },
+    {
+      "id": "EW4Op7i4_s0"
+    },
+    {
+      "id": "N6SIeixYqwc"
+    },
+    {
+      "id": "cXpr2AJTnMM"
+    },
+    {
+      "id": "kO2NLXxhQsw"
+    },
+    {
+      "id": "eUVyMy5DDNQ"
+    },
+    {
+      "id": "GQDeuhm4VZ4"
+    },
+    {
+      "id": "k0sp9aDnahE"
+    },
+    {
+      "id": "CRKIvYvqFLY"
+    },
+    {
+      "id": "Jkaw1ynxrig"
+    },
+    {
+      "id": "W6xrmecK0x8"
+    },
+    {
+      "id": "-5M9nmkZft8"
+    },
+    {
+      "id": "GpVCl5Rj4SY"
+    },
+    {
+      "id": "Y4yaEMAOdlw"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "9BYoHliw9cQ"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "vTJvWad0OUw"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "bcAYOKLoDno"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "QOvDqmxNsr0"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "_cOfAI9ZB6g"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "2gzKDnL_6vY"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "ZVQQUcbKkko"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "9mFsPPkQbMc"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "fxyF2LPgHOg"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "NpE4boRJbVs"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "b-iU4LNcGOc"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "E6mKQVnTDVY"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "btcNuCTl8zI"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "Bm9DWvklnmo"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "09LgBjCv4zE"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "PRSY3w7gz80"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "Y0q61H_kNQE"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "gQiuCjUIIgM"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "Fm8g_CQUKY8"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "BLuzRHzbjgk"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "9wF_Yz7ZIbM"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "NVNlbHnNx4o"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "U2OHJyQmD2I"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "Rtwws-KggGU"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "wtNNvIxNa6U"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "b5clulKomdA"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "G4fVcfSZuIU"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "nxhcsEsIyiU"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "xLS627kJbaA"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "k-DwtcTpAnc"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "QKJiJ7hDfXQ"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "gqArrPVTxlE"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "pU45yPEfd5k"
+    },
+    {
+      "itemName": "Jacket",
+      "price": 0,
+      "qty": 0,
+      "id": "O85tljBtufE"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}
