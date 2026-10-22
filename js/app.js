@@ -21,30 +21,30 @@ function displayItem(items) {
   });
 }
 
-// form.addEventListener("submit", (event) => {
-//     event.preventDefault();
+form.addEventListener("submit", (event) => {
+    event.preventDefault();
 
-//     items.push({
-//       itemName: event.target.itemName.value,
-//       price: event.target.price.value,
-//       qty: event.target.qty.value,
-//     });
+    items.push({
+      itemName: event.target.itemName.value,
+      price: event.target.price.value,
+      qty: event.target.qty.value,
+    });
 
-//     displayItem(items);
-// })
+    displayItem(items);
+})
 
-// function removeItem(index) {
-//     items.splice(index, 1)
-//     displayItem(items)
-// }
+function removeItem(index) {
+    items.splice(index, 1)
+    displayItem(items)
+}
 
 
-// function searchItems(hint) {
-//     const searchedItems = items.filter(
-//         (item) => item.itemName.toLowerCase().includes(hint.replace(/\s+/g, " ").toLowerCase())
-//     )
-//     displayItem(searchedItems)
-// }
+function searchItems(hint) {
+    const searchedItems = items.filter(
+        (item) => item.itemName.toLowerCase().includes(hint.replace(/\s+/g, " ").toLowerCase())
+    )
+    displayItem(searchedItems)
+}
 
 const searchInput = document.querySelector("#input-search")
 
